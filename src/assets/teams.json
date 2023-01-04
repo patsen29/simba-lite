@@ -1,0 +1,35 @@
+{
+  "standings": {
+    "leagues": [
+      {
+        "id": "AL",
+        "name": "American",
+        "divisions": [
+          {
+            "id": "E",
+            "name": "East",
+            "teams": [
+              {"id": "NYY", "city":"New York", w:99, l:63, gb:0, flag:"y"},
+              {"id": "TOR", "city":"Toronto", w:92, l:70, gb:7, flag:"w"},
+              {"id": "TBR", "city":"Tampa Bay", w:86, l:76, gb:13, flag:"w"}
+            ]
+          }
+        ]
+      },{
+        "id": "NL",
+        "name": "National",
+        "divisions": [
+          {
+            "id": "E",
+            "name": "East",
+            "teams": [
+              {"id": "ATL", city:"Atlanta", w:101, l:61, gb:0, flag:"y"},
+              {"id": "NYM", city:"New York", w:101, l:61, gb:0, flag:"w"},
+              {"id": "PHI", city:"Philadelphia", w:87, l:75, gb:14, flag:"w"}
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
